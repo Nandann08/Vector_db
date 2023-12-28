@@ -1,0 +1,6 @@
+wikipedia-api
+gensim
+faiss-cpu
+scikitlearn
+torch
+transformers
